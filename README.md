@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋✨, I'm Aryan Prajapati</h1>
-<h3 align="center">Machine learning enthusiast with knowledge of Python language and strong skills in competitive programming with Java language. Seeking an internship to apply Machine Learning skills in a real-world environment and gain experience in this field.</h3>
+<h3 align="center">Machine learning enthusiast with knowledge of Python language and strong skills in competitive programming with Java language. Applying Machine Learning skills in a real-world environment and gaining experience in this field.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7220818a484fe5ba9a5fe0c230fe71926dab8923db080fbb81739f52381b56c5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3738362f302a485137574b6f6c5039694572307a36782e676966">
 
