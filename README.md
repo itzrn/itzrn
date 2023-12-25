@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=650&lines=A+Machine+learning+Enthusiast;DSA+And+Competative+Programming+in+Java;Machine+Learning+And+Deep+Learning+in+Python;"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=650&lines=A+Machine+Learning+Enthusiast;DSA+And+Competative+Programming+in+Java;Machine+Learning+And+Deep+Learning+in+Python;"></a>
       </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
