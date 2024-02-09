@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋✨, </br> I'm Aryan Prajapati</h1>
 <h3 align="center"> Applying Machine Learning skills in a real-world environment and gaining experience in this field.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
+   <p align="center" color: "red">
  <a>
           <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=650&lines=A+Machine+Learning+Enthusiast;DSA+And+Competative+Programming+in+Java;Machine+Learning+And+Deep+Learning+in+Python;"></a>
       </p>
@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7220818a484fe5ba9a5fe0c230fe71926dab8923db080fbb81739f52381b56c5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3738362f302a485137574b6f6c5039694572307a36782e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
